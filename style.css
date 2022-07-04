@@ -1,0 +1,27 @@
+body {
+	font-family: 'Bungee';
+    color:floralwhite;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, #bbd2c5, #536976, #292e49); /* Standard syntax */
+}
+
+h1 {
+    font-family: 'Bungee';
+    color:floralwhite;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+	font-family: 'Bungee';
+    color:floralwhite;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
